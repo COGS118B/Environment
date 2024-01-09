@@ -1,0 +1,16 @@
+name: COGS118B_WI24
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9.5
+  - git
+  - jupyterlab
+  - pillow
+  - pip
+  - pip:
+    - -r requirements.txt
+
+
+
