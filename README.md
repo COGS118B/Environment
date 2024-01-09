@@ -7,6 +7,6 @@ All of docker images are build based on the UC San Diego's Data Science/Machine 
 
 # Docker Hub Images
 
-For CPU version, the pre-build image can be found at tag [scottyang17/cogs118a](https://hub.docker.com/r/scottyang17/cogs118a)
+For CPU version, the pre-build image can be found at tag [scottyang17/cogs118b_cpu](https://hub.docker.com/r/scottyang17/cogs118b_cpu)
 
-GPU cuda ready version, please see [scottyang17/cogs118a_cuda](https://hub.docker.com/r/scottyang17/cogs118a_cuda)
+GPU cuda ready version, please see [scottyang17/cogs118b_cuda](https://hub.docker.com/r/scottyang17/cogs118b_cuda)
