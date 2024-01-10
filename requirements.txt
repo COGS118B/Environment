@@ -9,4 +9,4 @@ pandas==2.1.4
 jupyterquiz
 numexpr
 bottleneck==1.3.4
-
+pandoc
